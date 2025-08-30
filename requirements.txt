@@ -1,0 +1,10 @@
+ipykernel
+pandas>=2.2
+numpy
+scikit-learn==1.4.2
+matplotlib
+seaborn
+streamlit>=1.36
+plotly
+joblib>=1.3
+
